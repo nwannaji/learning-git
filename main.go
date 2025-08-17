@@ -1,1 +1,2 @@
-function main{}
+package main
+func function main{}
